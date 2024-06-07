@@ -1,6 +1,6 @@
 class Enemy < Sprite
   def hit
-    self.vanish
+      self.vanish
   end
   def update
     
